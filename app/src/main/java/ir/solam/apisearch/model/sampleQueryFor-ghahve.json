@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "link_type": "movie",
+      "link_key": "29454",
+      "theme": "thumbnail",
+      "output_type": "movie",
+      "movie_id": "31198",
+      "uid": "WgsaK",
+      "movie_title": "قهوه تلخ - فصل 1 قسمت 102",
+      "movie_title_en": "Ghahve Ye Talkh S01E102",
+      "tag_id": null,
+      "serial": {
+        "enable": true,
+        "parent_title": "قهوه تلخ",
+        "season_id": "1",
+        "serial_part": "102",
+        "part_text": "قسمت 102ام",
+        "season_text": "فصل اول",
+        "last_part": true
+      },
+      "watermark": false,
+      "HD": false,
+      "watch_list_action": "login",
+      "commingsoon_txt": "",
+      "rel_data": {
+        "rel_type": null,
+        "rel_id": null,
+        "rel_uid": null,
+        "rel_title": null,
+        "rel_type_txt": ""
+      },
+      "badge": {
+        "backstage": false,
+        "vision": false,
+        "hear": false,
+        "online_release": false,
+        "free": false,
+        "exclusive": false,
+        "commingsoon": false,
+        "info": []
+      },
+      "rate_enable": true,
+      "descr": "",
+      "cover": null,
+      "publish_date": "2020-06-26 20:00:00",
+      "age_range": "18-99",
+      "pic": {
+        "movie_img_s": "https://static.cdn.asset.filimo.com/flmt/mov_31198_480-s.jpg",
+        "movie_img_m": "https://static.cdn.asset.filimo.com/flmt/mov_31198_480-m.jpg",
+        "movie_img_b": "https://static.cdn.asset.filimo.com/flmt/mov_31198_480-b.jpg"
+      },
+      "rate_avrage": "4.72",
+      "avg_rate_label": "95%",
+      "pro_year": "1389",
+      "imdb_rate": "0.00",
+      "categories": [
+        {
+          "title_en": "comedy",
+          "title": "کمدی",
+          "link_type": "list",
+          "link_key": "comedy"
+        },
+        {
+          "title_en": "family",
+          "title": "خانوادگی",
+          "link_type": "list",
+          "link_key": "family"
+        }
+      ],
+      "duration": null,
+      "countries": [
+        {
+          "country": "ایران",
+          "country_en": "iran"
+        }
+      ],
+      "dubbed": {
+        "enable": false,
+        "text": ""
+      },
+      "subtitle": {
+        "enable": false,
+        "text": ""
+      },
+      "audio": {
+        "languages": [
+          ""
+        ],
+        "isMultiLanguage": false
+      },
+      "language_info": {
+        "flag": "hasSubtitle",
+        "text": "زیرنویس دارد"
+      },
+      "director": null,
+      "last_watch": [],
+      "freemium": false,
+      "position": 1,
+      "sid": 0,
+      "uuid": "a12eec0202194d549816473678b4b55f"
+    }
+  ]
+}
